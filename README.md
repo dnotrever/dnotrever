@@ -1,16 +1,16 @@
-### Hi there 👋
+# Sobre Mim
+Encontrei na Tecnologia da Informação a oportunidade de fazer parte da revolução tecnológica pelo qual o mundo está passando. Poder ser um dos protagonistas nessa história, em tempo real. Poder mudar vidas e paradigmas, assim como a tecnologia mudou a minha. Por isso, estou sempre em busca de conhecimento e sabedoria, para que eu possa aplicar minhas habilidades e princípios em prol do bem-estar e desenvolvimento humano.
 
-<!--
-**dnotrever/dnotrever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Áreas de Estudo
+Atualmente estou me gradudando em Análise e Desenvolvimento de Sistemas.
+Meu foco no momento está sendo a área de Desenvolvimento Web, mas tenho grande interesse em Ciência de Dados.
 
-Here are some ideas to get you started:
+## Estudo e Tecnologias
+No Desenvolvimento Web estou estudando e aplicando a meus projetos pessoais tecnologias de front-end, como JavaScript, React, HTML5, CSS3, Bootstrap e SASS, e de back-end, como Node.js, Express, Django e Flask. Às vezes tento também um pouco de PHP.
+Na área de Ciência de Dados, os quais estou focando menos agora, estudo Python e bibliotecas relacionadas, como Pandas, Numpy e Openpyxl, ora utilizando VS Code, ora Jupyter Notebook.
+Fora isso, estudo um pouco de conceitos e técnicas como Testes Unitários, Programação Orientada à Objetos, SOLID e Design Patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência e Projetos
+No momento, não estou trabalhando com Programação e nem tenho expiriência profissional na área, mas procuro uma oportunidade para engressar nessa carreira e poder mostrar meu potencial. Por falar nisso, vai lá no meu [LinkedIn](https://www.linkedin.com/in/everton-diego-rosa-742a84135/) dá uma olha sem compromisso!
+Enquanto isso, não perco tempo! Desenvolvo alguns projetos pessoais com as tecnologias que estudo (fique a vontade para visitar meu repositório).
+Meu conhecimento na área não é amplo, mas minha vontade de aprender e somar é gigante.
