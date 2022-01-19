@@ -11,6 +11,6 @@ Na área de Ciência de Dados, os quais estou focando menos agora, estudo Python
 Fora isso, estudo um pouco de conceitos e técnicas como Testes Unitários, Programação Orientada à Objetos, SOLID e Design Patterns.
 
 ## Experiência e Projetos
-No momento, não estou trabalhando com Programação e nem tenho experiência profissional na área, mas procuro uma oportunidade para ingressar nessa carreira e poder mostrar meu potencial. Por falar nisso, vai lá no meu [LinkedIn](https://www.linkedin.com/in/everton-diego-rosa-742a84135/) dá uma olha sem compromisso!
+No momento, não estou trabalhando com Programação e nem tenho experiência profissional na área, mas procuro uma oportunidade para ingressar nessa carreira e poder mostrar meu potencial. Por falar nisso, vai lá no meu [LinkedIn](https://www.linkedin.com/in/everton-diego-rosa-742a84135/) dá uma olhada sem compromisso!
 Enquanto isso, não perco tempo! Desenvolvo alguns projetos pessoais com as tecnologias que estudo (fique a vontade para visitar meu repositório).
 Meu conhecimento na área não é amplo, mas minha vontade de aprender e somar é gigante.
