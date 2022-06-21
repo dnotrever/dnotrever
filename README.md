@@ -1,19 +1,20 @@
-Encontrei na Tecnologia da Informação a oportunidade de fazer parte da revolução tecnológica pelo qual o mundo está passando. Poder ser um dos protagonistas nessa história, em tempo real. Se capaz de mudar vidas e paradigmas, assim como a tecnologia mudou a minha. Por isso, estou sempre em busca de conhecimento e sabedoria, para que eu possa aplicar minhas habilidades e princípios em prol do bem-estar e desenvolvimento humano.
+
+I found in Information Technology the opportunity to be part of the technological revolution that the world is going through. Being able to be one of the protagonists in this story, in real time. Being able to change lives and paradigms, just as technology changed mine. Therefore, I am always in search of knowledge and wisdom, so that I can apply my skills and principles for the benefit of human well-being and development.
 
 
-### Graduação
-Graduado em Análise e Desenvolvimento de Sistemas.
+### University Graduate
+Systems Analysis and Development
 
-### Estudos e Tecnologias
-Meu foco no momento está sendo a área de Desenvolvimento Web, mas tenho grande interesse em Ciência de Dados também.
-No Desenvolvimento Web estudo e aplico a meus projetos pessoais tecnologias de front-end, como JavaScript, HTML5, CSS3, Bootstrap e SASS, e de back-end, como Node.js, Express, Django e Flask. Às vezes me aventuro também em outras lingaguagens, como PHP, C++ e  Java.
-Na área de Ciência de Dados, os quais estou focando menos agora, estudo Python e bibliotecas relacionadas, como Pandas, Numpy e Openpyxl.
-Além disso, estudo conceitos e técnicas como Testes Unitários, Programação Orientada à Objetos, SOLID e Design Patterns.
+### Studies and Technologies
+My focus at the moment is in the area of Web Development, but I am also very interested in Data Science.
+In Web Development, I study and apply to my personal projects front-end technologies such as JavaScript, HTML, CSS, Bootstrap and SASS, and back-end technologies such as Node, Express, Django and Flask. Sometimes I also venture into other languages, such as PHP, C++ and Java.
+In the area of Data Science, which I'm focusing less on now, I study Python and related libraries like Pandas and Numpy.
+In addition to, I study concepts and techniques such as Unit and Integration Tests, Object Oriented Programming, SOLID and Design Patterns.
 
-### Experiência e Projetos
-No momento, não estou trabalhando com Programação e ainda não tenho experiência profissional na área, mas procuro uma oportunidade para ingressar na carreira e ter a chance de mostrar meu potencial. Por falar nisso, vai lá no meu [LinkedIn](www.linkedin.com/in/evertondrosa/) dá uma olhada sem compromisso!
-Enquanto isso, não perco tempo! Desenvolvo alguns projetos pessoais com as tecnologias que estudo (fica aqui o convite para visitar meu repositório).
-Meu conhecimento na área está em desenvolvimento, mas minha vontade de aprender e somar já é gigante.
+### Experience and Projects
+At the moment, I'm not working with Programming and I still don't have professional experience in the area, but I'm looking for an opportunity to join the career and have the chance to show my potential. By the way, go to my [LinkedIn](www.linkedin.com/in/evertondrosa/) take a look without commitment!
+In the meantime, waste no time! I develop some personal projects with the technologies I study (here is the invitation to visit my repository).
+My knowledge in the area is in development, but my desire to learn and add is already huge.
 
-### Contato
+### Contact
 E-mail: rosa.everton@hotmail.com
