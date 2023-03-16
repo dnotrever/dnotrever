@@ -2,7 +2,7 @@
 I found in Information Technology the opportunity to be part of the technological revolution that the world is going through. Being able to be one of the protagonists in this story, in real time. Being able to change lives and paradigms, just as technology changed mine. Therefore, I am always in search of knowledge and wisdom, so that I can apply my skills and principles for the benefit of human well-being and development.
 
 ### University Graduate
-Systems Analysis and Development (01/2020-07/2022)
+Systems Analysis and Development (01/2020 - 07/2022)
 
 ### Studies and Technologies
 My focus at the moment is in the area of Web Development, but I am also very interested in Data Science and Automation.
@@ -14,7 +14,7 @@ At the moment, I still don't have professional experience in a company, but I'm 
 In the meantime, waste no time! I develop some personal projects and freelance projects (see below) with the technologies I study (here is the invitation to visit my repository).
 
 ### Freelance Jobs
-• Online Raffles Website (12/2022-03/2023) - [GSRIFA](www.gsrifa.com.br/)
+• Online Raffles Website (12/2022 - 03/2023) - www.gsrifa.com.br
 
 ### Contact
 E-mail: rosadeverton@gmail.com
